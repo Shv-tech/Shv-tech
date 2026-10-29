@@ -7,9 +7,7 @@
 ### This is exhilarating
 
 <p align="center">
-  <img src="https://img.shields.io/badge/confidence-10%2C000%2C000%2C000%25-5FD068?style=flat-square&labelColor=3A3F3A" alt="confidence: 10,000,000,000%">
-  <img src="https://img.shields.io/badge/SHV_Groups-NVIDIA_Inception-5FD068?style=flat-square&labelColor=3A3F3A" alt="SHV Groups · NVIDIA Inception">
-  <img src="https://img.shields.io/badge/IIT_Madras-'29-9AA39A?style=flat-square&labelColor=3A3F3A" alt="IIT Madras '29">
+  I am 10 Billion Percent sure science is coolest
 </p>
 
 ### ssup, I'm Shaurya ( Bluber )
