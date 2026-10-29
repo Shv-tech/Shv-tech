@@ -58,9 +58,9 @@
       </g>
     </g>
     <!-- title block -->
-    <text x="64" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="4" fill="#5FD068">KINGDOM OF SCIENCE  //  AGI DIVISION</text>
+    <text x="64" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="4" fill="#5FD068">KINGDOM OF SCIENCE</text>
     <text x="60" y="258" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="-1" fill="#E8EDE6">Shaurya Verma</text>
-    <text x="64" y="298" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#9AA39A">bluber · founder @ SHV Groups · Eunoia Labs · IIT Madras ’29<tspan class="blink" fill="#5FD068"> ▌</tspan></text>
+    <text x="64" y="298" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#9AA39A">bluber · founder @ SHV Groups | science is cool<tspan class="blink" fill="#5FD068"> ▌</tspan></text>
     <!-- confidence stamp -->
     <g transform="translate(1136 58)" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
       <text font-size="12" letter-spacing="3" fill="#9AA39A">CONFIDENCE</text>
