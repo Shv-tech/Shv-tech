@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/IIT_Madras-'29-9AA39A?style=flat-square&labelColor=3A3F3A" alt="IIT Madras '29">
 </p>
 
-### 🧪 Hi, I'm Shaurya (a.k.a. Bluber)
+### ssup, I'm Shaurya ( Bluber )
 
 At 14 I wanted a machine that could think *alongside* a person: human creativity and judgement, plus machine-scale calculation. I've been building toward it ever since, through papers, models and eventually a company.
 
@@ -23,24 +23,24 @@ Now I run **[SHV Groups](https://shvgroups.com)**, where **Eunoia Labs** researc
 Also: anime enjoyer, professional overthinker, amateur chemist of tensors.
 
 <!-- COUNTER:START -->
-⏱️ **215,435,560** seconds counted since I decided, at 14, to build a machine that thinks alongside us. Senku counted 117,354,893,870. I'm at **0.18%**. Catching up.
+**215,435,560** seconds counted since I decided, at 14, to build a machine that thinks alongside us. Senku counted 117,354,893,870. I'm at **0.18%**. Catching up.
 <!-- COUNTER:END -->
 
-### 🗺️ The Roadmap
+### The Roadmap
 
 ```mermaid
 flowchart TB
-  subgraph ACQ["✅ ACQUIRED"]
+  subgraph ACQ["ACQUIRED"]
     direction LR
-    A["🪨 Stone Age<br/>age 14, one idea"] --> B["🔥 jarvis<br/>the first spark"]
-    B --> C["⚙️ edge<br/>spatial OS · WebGPU inference<br/>hand tracking"]
-    C --> D["🧠 Eunoia-4B-mini<br/>goal-driven reasoning<br/>controller"]
-    D --> E["🛡️ Veto<br/>approval layer<br/>between agents & actions"]
+    A["Stone Age<br/>age 14, one idea"] --> B["🔥 jarvis<br/>the first spark"]
+    B --> C["edge<br/>spatial OS · WebGPU inference<br/>hand tracking"]
+    C --> D["Eunoia-4B-mini<br/>goal-driven reasoning<br/>controller"]
+    D --> E["Veto<br/>approval layer<br/>between agents & actions"]
   end
-  subgraph NEXT["🔒 NEXT ON THE ROAD"]
+  subgraph NEXT["NEXT ON THE ROAD"]
     direction LR
-    F["🚢 Eunoia Omega<br/>compact reasoning,<br/>scaled up"] -.-> G["🚀 alignment &<br/>evaluation suite"]
-    G -.-> H["🌍 safe general intelligence<br/>revive everyone"]
+    F["Eunoia Omega<br/>compact reasoning,<br/>scaled up"] -.-> G["alignment &<br/>evaluation suite"]
+    G -.-> H["safe general intelligence<br/>revive everyone"]
   end
   ACQ ==> NEXT
 
@@ -50,23 +50,23 @@ flowchart TB
   class F,G,H locked
 ```
 
-### ✨ ACQUIRED!!
+### ACQUIRED!!
 
-- 🛡️ **[Veto](https://github.com/SHVGroups/veto)**: open-source approval layer that sits between AI agents and the actions they take. Decisions come from a typed model, not a generative one. **v1.0 is public.**
-- 🧠 **[Eunoia-4B-mini](https://github.com/Shv-tech/Eunoia-4B-mini)**: ~4B reasoning model with an external cognitive controller (goal hierarchies, step-wise evaluation and retry, adaptive goal mutation). Built on Qwen3-4B, Apache 2.0.
-- ⚙️ **[edge](https://github.com/Shv-tech/edge)**: spatial computing and autonomous control layer. WebGPU inference in the browser, a Rust hardware bridge, PyTorch hand tracking.
+- **[Veto](https://github.com/SHVGroups/veto)**: open-source approval layer that sits between AI agents and the actions they take. Decisions come from a typed model, not a generative one. **v1.0 is public.**
+- **[Eunoia-4B-mini](https://github.com/Shv-tech/Eunoia-4B-mini)**: ~4B reasoning model with an external cognitive controller (goal hierarchies, step-wise evaluation and retry, adaptive goal mutation). Built on Qwen3-4B, Apache 2.0.
+- **[edge](https://github.com/Shv-tech/edge)**: spatial computing and autonomous control layer. WebGPU inference in the browser, a Rust hardware bridge, PyTorch hand tracking.
 
-### 🚫 Not one millimeter
+### Not one millimeter
 
 - chance I ship an AI that replaces the humans it was meant to help
 - chance I skip the safety evals because the demo looked cool
 - chance I stop watching anime
 
-### 🧰 Lab equipment
+### Lab equipment
 
 `Python` · `PyTorch` · `Transformers` · `TypeScript` · `Next.js` · `Rust` · `WebGPU`
 
-### 🤝 Join the Kingdom of Science
+### Join the Kingdom of Science
 
 Researchers, builders, alignment nerds and fellow weebs: let's build the good timeline.
 
